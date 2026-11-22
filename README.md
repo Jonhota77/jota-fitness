@@ -4,16 +4,16 @@
 
 ## 📥 Descargar
 
-👉 **[Descargar la última versión](https://github.com/Jonhota77/jota-fitness/releases/latest)**
+**Versión actual: 2.0.0.** Elige uno:
 
-En la página de descarga verás dos archivos. Elige uno:
-
-| Archivo | Para qué celular |
+| Descarga | Para qué celular |
 |---|---|
-| `JotaFitness-2.0.0-arm64.apk` | **Recomendado.** Casi todos los celulares de 2017 en adelante |
-| `JotaFitness-2.0.0-armv7.apk` | Celulares viejos o de gama baja, si el primero no instala |
+| 👉 **[Descargar Jota Fitness (recomendado)](https://github.com/Jonhota77/jota-fitness/raw/main/descargas/JotaFitness-2.0.0-arm64.apk)** | Casi todos los celulares de 2017 en adelante |
+| [Descargar versión para celulares viejos](https://github.com/Jonhota77/jota-fitness/raw/main/descargas/JotaFitness-2.0.0-armv7.apk) | Celulares viejos o de gama baja, si el primero no instala |
 
-Si no sabes cuál es el tuyo, prueba primero el **arm64**.
+Si no sabes cuál es el tuyo, prueba primero el **recomendado**.
+
+Los códigos de verificación de los archivos están en [`descargas/SHA256.txt`](descargas/SHA256.txt).
 
 ## 📲 Cómo instalar
 
